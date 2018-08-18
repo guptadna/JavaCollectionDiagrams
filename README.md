@@ -8,8 +8,8 @@ Java Collections
 
 ![Alt text](/Map_2.png?raw=true "Optional Title")
 
-![Alt text](/CollectionAndMap_3?raw=true "Optional Title")
+![Alt text](/CollectionAndMap_3.jpg?raw=true "Optional Title")
 
 # Collection & Map
 
-![Alt text](/CollectionAndMap_4?raw=true "Optional Title")
+![Alt text](/CollectionAndMap_4.png?raw=true "Optional Title")
